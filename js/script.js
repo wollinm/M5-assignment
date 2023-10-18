@@ -1,4 +1,5 @@
 /*
+   Author: Magdalena Wollin
    multiple functions
    rock, paper, scissors
    calculate
